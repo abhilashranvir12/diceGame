@@ -1,0 +1,29 @@
+body {
+  background-color: lightgreen;
+}
+
+.wrapper {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.result {
+  margin: 20px;
+  font-size: 40px;
+  color: red;
+}
+
+.dice-area {
+  margin: 0px 50px;
+  text-align: center;
+  display: inline-block;
+}
+
+p {
+  font-size: 50px;
+}
+
+img {
+  width: 320px;
+}
